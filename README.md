@@ -14,4 +14,4 @@
 
 ## Free Practice Assessment
 
-* [AZ-900 Practice Assessment](https://rebrand.ly/AZ-900-Practice-Assessment)
+* [AZ-900 Practice Assessment](https://www.edusum.com/microsoft/az-900-microsoft-azure-fundamentals)
